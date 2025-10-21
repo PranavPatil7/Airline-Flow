@@ -1,10 +1,3 @@
-# Microservices Sample
-
-[![Build Status](https://travis-ci.org/mudigal-technologies/microservices-sample.svg?branch=master)](https://travis-ci.org/mudigal-technologies/microservices-sample)
-[![Docker Repository on Quay](https://quay.io/repository/microservices-sample/api-gateway/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/api-gateway)
-[![Docker Repository on Quay](https://quay.io/repository/microservices-sample/service-one/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/service-one)
-[![Docker Repository on Quay](https://quay.io/repository/microservices-sample/service-two/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/service-two)
-[![Docker Repository on Quay](https://quay.io/repository/microservices-sample/web-application/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/web-application)
 
 # Microservices Sample
 
@@ -194,28 +187,4 @@ mysql> SELECT * FROM name_value;
 
 ```
 
-### Help
 
-Feel free to reach "[MUDIGAL TECHNOLOGIES LLP]" at "contact@mudigal.com" incase of any concerns.
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
-
-   [MUDIGAL TECHNOLOGIES LLP]: <https://www.mudigal.com>
-   [Bootstrap]: <https://twitter.github.com/bootstrap/>
-   [jQuery]: <https://jquery.com>
-   [Angular]: <https://angular.io/>
-   [SpringBoot]: <https://projects.spring.io/spring-boot/>
-   [Consul]: <https://www.consul.io>
-   [Docker]: <https://www.docker.com>
-   [Zuul]: <https://github.com/Netflix/zuul/wiki>
-   [Kitematic]: <https://kitematic.com>
-   [Maven]: <https://maven.apache.org>
-   [MySQL]: <https://www.mysql.com>
-   [Git]: <https://git-scm.com>
-   [Java]: <https://go.java>
-   [Logstash]: <https://www.elastic.co/products/logstash>
-   [Elasticsearch]: <https://www.elastic.co/products/elasticsearch>
-   [Kibana]: <https://www.elastic.co/products/kibana>
-   [RabbitMQ]: <https://www.rabbitmq.com/>
-   [Swagger]: <https://swagger.io/>
-   
